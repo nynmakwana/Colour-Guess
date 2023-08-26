@@ -1,6 +1,6 @@
 # Colour-Guess
 
-## This project made by group of 2 students of GSFC Unviersity for Python Programming.
+## This project made by group of 2 students of GSFC Unviersity for Python Programming Assignment.
 
 ### About Project
 
